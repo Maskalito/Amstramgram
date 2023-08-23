@@ -2,6 +2,8 @@
 
 This project is a Instragram clone creating to improve my competencies in React, Typescript PostgreSQL and HTML/CSS.
 
+## IN PROGRESS
+
 ## Features
 
 - [IN DEV] Register
